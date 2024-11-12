@@ -82,4 +82,4 @@ Expanded Model Selection: In addition to CNN, logistic regression, and KNN model
 
 ## License
 
-This project is licensed under the MIT License.See the [LICENSE](LICENSE) file for more information.
+This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for more information.
