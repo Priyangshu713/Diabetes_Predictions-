@@ -69,6 +69,10 @@ The project includes several models stored in the `data/` folder:
 - **CNN Model**: Used for image or pattern recognition on diabetes-related data.
 - **KNN Model**: A simple, instance-based learning algorithm.
 - **Logistic Regression Model**: Linear model for binary classification.
+- **XGBoost Model**: A powerful, gradient-boosted tree model well-suited for tabular data.
+
+## Features
+Expanded Model Selection: In addition to CNN, logistic regression, and KNN models, the application also includes XGBoost models to improve prediction accuracy and provide a robust comparison of algorithms.
 
 ## Future Improvements
 
