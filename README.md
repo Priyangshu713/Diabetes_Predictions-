@@ -15,7 +15,7 @@ This project is a **Diabetes Prediction Web Application** built using Flask. It 
 - `app.py`: Main application script initializing Flask and setting up model loading and prediction functions.
 - `data/`: Contains pre-trained models and the dataset used for training:
   - `cnn_model.keras`, `cnn_model.h5`: CNN models for prediction.
-  - `knn_model.pkl`, `model_logistic.pkl`: KNN and logistic regression models, respectively.
+  - `knn_model.pkl`, `model_logistic.pkl`, `xgboost_model.pkl`: KNN, logistic regression and XGboost models, respectively.
   - `diabetes_prediction_dataset.csv`: Dataset file, likely used for model training or reference.
 - `requirements.txt`: Lists dependencies necessary to run the application.
 - `static/`: Contains frontend assets, including CSS for styling (`style.css`), JavaScript for client-side interactions (`script.js`), and a favicon (`favicon.ico`).
