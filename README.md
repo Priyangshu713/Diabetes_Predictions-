@@ -27,7 +27,7 @@ To set up and run the application locally, follow these steps:
 
 1. **Clone the Repository**:
     ```bash
-    git clone <repo_url>
+    git clone https://github.com/Priyangshu713/Diabetes_Predictions-
     cd Diabetes_Predictions--main
     ```
 
