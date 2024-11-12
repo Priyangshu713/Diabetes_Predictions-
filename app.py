@@ -11,7 +11,7 @@ app = Flask(__name__)
 CORS(app)
 
 # Define paths
-MODEL_DIR = os.path.join(os.path.dirname(__file__), 'models')
+MODEL_DIR = os.path.join(os.path.dirname(__file__), 'data')
 CNN_MODEL_PATH = os.path.join(MODEL_DIR, 'cnn_model.keras')
 XGBOOST_MODEL_PATH = os.path.join(MODEL_DIR, 'xgboost_model.pkl')
 KNN_MODEL_PATH = os.path.join(MODEL_DIR, 'knn_model.pkl')
